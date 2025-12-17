@@ -1,0 +1,4 @@
+Something I've Learned So Far in This Course
+Something I've Learned So Far in This Course
+
+Through the Git practical tasks, I've learned how to create repositories, work with branches, resolve workflows with pull requests, and collaborate via forks. These skills are crucial for version control in team projects and maintaining clean code history. I'm building a strong foundation for more advanced Linux and development work!
