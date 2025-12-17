@@ -2,4 +2,4 @@ Brief Introduction About Myself
 
 My name is Serge. I'm currently taking a course on Linux command-line, shell scripting, and Git version control. I'm from Rwanda and passionate about technology, building practical skills, and applying them to real projects like software development and system management.
 
-This first repo is a stepping stone in mastering collaborative tools like Git and GitHub!
+This first repo is a stepping stone in mastering collaborative tools like Git and GitHub!   
