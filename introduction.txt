@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Serge BANA. I am currently learning Linux, shell scripting, and version control with Git. I enjoy working on practical projects and solving real-world problems using technology. This repository is part of my journey to master Git and collaborative development.
+
+I live in Rwanda and I'm passionate about building scalable solutions. Looking forward to contributing more to open-source and team projects!
