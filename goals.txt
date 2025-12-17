@@ -1,0 +1,8 @@
+My Personal and Academic Goals for Next Year
+
+1. Master Linux command-line and shell scripting to an advanced level.
+2. Become proficient in Git and collaborative workflows for real projects.
+3. Complete this course with high marks and build a strong portfolio.
+4. Start contributing to open-source projects on GitHub.
+5. Improve my problem-solving skills through daily coding practice.
+6. Explore more about system administration and DevOps basics.
