@@ -5,4 +5,4 @@ My Personal and Academic Goals for Next Year
 3. Complete this course with high marks and build a strong portfolio.
 4. Start contributing to open-source projects on GitHub.
 5. Improve my problem-solving skills through daily coding practice.
-6. Explore more about system administration and DevOps basics.
+6. Explore more about system administration and DevOps basics .
